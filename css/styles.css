@@ -217,9 +217,6 @@ padding: 120px 0;
 /* footer */
  .footer{background-color: var(--brand-color);
 padding: 100px 0;}
- .footer-container{
-    display: inline-block;
- }
 .text-end{
             font-size: 16px;
             line-height: 1.5;
@@ -235,6 +232,7 @@ padding: 100px 0;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
+    display: inline-block;
 }
 .logo.link>.link-span {
     color: var(--card-color);
@@ -244,7 +242,7 @@ padding: 100px 0;}
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        
+      
 }
 
 
