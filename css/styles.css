@@ -224,7 +224,7 @@ padding: 100px 0;}
             color: var(--card-color);
             max-width: 264px;
 }
-.footer.logo.link{color: var(--brands-color);
+.foot.logo.link{color: var(--brands-color);
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -232,6 +232,7 @@ padding: 100px 0;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
+    margin-right: 0px;
     display: inline-block;
 }
 .logo.link>.link-span {
@@ -305,7 +306,6 @@ padding: 100px 0;}
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--brand-color);
-    margin-top: 32px;
     margin-bottom: 8px;
 }
 .photo-wrap{
